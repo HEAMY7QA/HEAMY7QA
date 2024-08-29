@@ -28,3 +28,6 @@ QA Engineer
 
 *   🌍 I'm based in Samara, Russia
 *   ✉️ You can contact me at [baland.work@yandex.ru](mailto:baland.work@yandex.ru)
+
+My Postman profile: 
+https://www.postman.com/heamy7qa/workspace/https-reqres-in/collection/37691126-0ac989f4-0d8b-4cd1-9381-1cce777de103
